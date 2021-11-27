@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85797838/143662900-fee77b09-2b65-4c7e-90e7-e360b561c585.png)
+
+
 ### Hi, I'm Dana 💁🏾‍♀️
 
 A Data Science Fellow at Data Science for All and recent data science graduate from the BrainStation bootcamp.

@@ -2,7 +2,7 @@
 I'm a Data Science Fellow at DS4A by Correlation One and a recent data science graduate from the BrainStation bootcamp
 
 ## ✨ What's your thing?
-I'm interested in data analytics and data science. 
+I'm interested in data analytics and data science
 
 ## 😛 What languages do you speak?
 In the coding world, I enjoy speaking SQL and Python. Je parle aussi le français, bastante español, ich habe mein Deutsch vergessen und 我在学中文. Quality time is my love language

@@ -1,11 +1,8 @@
-![image](https://user-images.githubusercontent.com/85797838/143662900-fee77b09-2b65-4c7e-90e7-e360b561c585.png)
-
-
-# Hi, I'm Dana! Welcome to my GitHub! 🙋🏾‍♀️
+# Hi, I'm Dana! Welcome to my GitHub! 🙋🏾‍
 I'm a Data Science Fellow at DS4A by Correlation One and a recent data science graduate from the BrainStation bootcamp
 
-## ✨ How would you describe yourself?
-I like to describe myself as a borderless soul 
+## ✨ What's your thing?
+I'm interested in data analytics and data science. 
 
 ## 😛 What languages do you speak?
 In the coding world, I enjoy speaking SQL and Python. Je parle aussi le français, bastante español, ich habe mein Deutsch vergessen und 我在学中文. Quality time is my love language
@@ -22,6 +19,12 @@ I despise bananas...
 
 
 <!--
+
+![image](https://user-images.githubusercontent.com/85797838/143662900-fee77b09-2b65-4c7e-90e7-e360b561c585.png)
+
+## ✨ How would you describe yourself?
+I like to describe myself as a borderless soul 
+
 **dana-smart/dana-smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
